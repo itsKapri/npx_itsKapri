@@ -1,6 +1,6 @@
 {
   "name": "itskapri",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A personal card for Nilesh Kapri (itsKapri)",
   "main": "itsKapri.js",
   "type": "module",
