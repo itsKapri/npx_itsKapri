@@ -3,16 +3,16 @@
   "version": "0.0.6",
   "type": "module",
   "description": "A personal card for Nilesh Kapri (itsKapri)",
-  "main": "itsKapri.js",
+  "main": "itskapri.js",
   "bin": {
-    "itsKapri": "./itsKapri.js"
+    "itsKapri": "./itskapri.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/itsKapri/npx_itsKapri.git"
   },
   "scripts": {
-    "test": "node itsKapri.js",
+    "test": "node itskapri.js",
     "pub": "npm version major & npm publish"
   },
   "keywords": [
