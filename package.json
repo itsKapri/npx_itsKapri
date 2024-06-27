@@ -11,16 +11,16 @@
     "url": "git+https://github.com/itsKapri/npx_itsKapri.git"
   },
   "scripts": {
-    "test": "node card.js",
+    "test": "node itsKapri.js",
     "pub": "npm version major & npm publish"
   },
   "keywords": [
-    "card",
+    "itsKapri",
     "npm",
-    "npm card",
+    "npm itsKapri",
     "npx",
-    "npx card",
-    "business card"
+    "npx itsKapri",
+    "business itsKapri"
   ],
   "author": "Nilesh Kapri",
   "license": "ISC",
