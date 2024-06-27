@@ -3,6 +3,7 @@
   "version": "0.0.3",
   "description": "A personal card for Nilesh Kapri (itsKapri)",
   "main": "itsKapri.js",
+  "type": "module",
   "bin": {
     "itsKapri": "./itsKapri.js"
   },
@@ -15,12 +16,12 @@
     "pub": "npm version major & npm publish"
   },
   "keywords": [
-    "itsKapri",
+    "itskapri",
     "npm",
-    "npm itsKapri",
+    "npm itskapri",
     "npx",
-    "npx itsKapri",
-    "business itsKapri"
+    "npx itskapri",
+    "business itskapri"
   ],
   "author": "Nilesh Kapri",
   "license": "ISC",
@@ -30,6 +31,7 @@
     "clear": "0.1.0",
     "fs": "0.0.1-security",
     "inquirer": "9.2.23",
+    "itskapri": "^0.0.3",
     "open": "10.1.0",
     "ora": "8.0.1",
     "path": "0.12.7",

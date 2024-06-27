@@ -1,0 +1,62 @@
+{
+    "itsKapri": {
+        "name": "Nilesh Kapri",
+        "aboutMe": "Currently working as an Associate Application Engineer at Raw Engineering with 1.9 years of experience in JavaScript Frameworks, particularly proficient in MERN stack. Committed to delivering high-quality, user-centric web applications. Collaborative team player with a track record of driving project success. Eager to contribute diverse expertise to achieve organizational goals.",
+        "email": "kaprinilesh57@gamil.com",
+        "gitHubLink": "GitHub",
+        "gitHubUserName": "itskapri",
+        "linkedInLink": "LinkedIn",
+        "linkedInUserName": "LinkedIn",
+        "twitterUserName": "Twitter",
+        "twitterLink": "",
+        "pronouns": "He/Him",
+        "language": [
+            "JavaScript",
+            "TypeScript",
+            "Kotlin"
+        ],
+        "askMeAbout": [
+            "Web Development",
+            "Tech",
+            "App Development",
+            "Android Development",
+            "New Games"
+        ],
+        "technologies": {
+            "frontEnd": {
+                "basic": [
+                    "HTML",
+                    "CSS",
+                    "Bootstrap",
+                    "Material-UI"
+                ],
+                "js": [
+                    "React",
+                    "React Native"
+                ]
+            },
+            "backEnd": {
+                "js": [
+                    "Node.js",
+                    "Express"
+                ]
+            },
+            "mobileApp": {
+                "Android": [
+                    "Kotlin",
+                    "Kotlin",
+                    "Jetpack"
+                ],
+                "crossPlatform": [
+                    "React Native"
+                ]
+            },
+            "databases": "MongoDB",
+            "architecture": [
+                "Serverless Architecture",
+                "Cross-Platform Applications",
+                "Single Page Applications"
+            ]
+        }
+    }
+}
