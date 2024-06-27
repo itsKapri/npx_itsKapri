@@ -1,0 +1,39 @@
+{
+  "name": "npx-itskapri",
+  "version": "0.0.1",
+  "description": "A personal card for Nilesh KApri (itsKapri)",
+  "main": "itsKapri.js",
+  "bin": {
+    "itsKapri": "./itsKapri.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsKapri/npx_itsKapri.git"
+  },
+  "scripts": {
+    "test": "node card.js",
+    "pub": "npm version major & npm publish"
+  },
+  "keywords": [
+    "card",
+    "npm",
+    "npm card",
+    "npx",
+    "npx card",
+    "business card"
+  ],
+  "author": "Nilesh Kapri",
+  "license": "ISC",
+  "dependencies": {
+    "boxen": "7.1.1",
+    "chalk": "5.3.0",
+    "clear": "0.1.0",
+    "fs": "0.0.1-security",
+    "inquirer": "9.2.23",
+    "open": "10.1.0",
+    "ora": "8.0.1",
+    "path": "0.12.7",
+    "request": "2.88.2",
+    "spinners": "1.2.2"
+  }
+}
