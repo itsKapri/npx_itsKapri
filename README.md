@@ -3,7 +3,7 @@ This my NPX card unique style to connect with me directly via console or termina
 
 👇 just hit 
 ```bash
-npx itskapri
+npx itsKapri
 ```
 And get to know me in unique style.
 
