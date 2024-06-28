@@ -42,7 +42,7 @@ const questions = [
       {
         name: "Just quit. 🚪",
         value: () => {
-          console.log("Hasta la vista. 👋\n");
+          console.log(chalk.bold("Hasta la vista. 👋\n"));
         },
       },
     ],
@@ -94,11 +94,13 @@ const me = boxen(
     `${chalk.italic("my best to get back to you!")}`,
   ].join("\n"),
   {
+    title: 'Dev',
     margin: 1,
     float: "center",
     padding: 1,
-    borderStyle: "single",
+    borderStyle: "doubleSingle",
     borderColor: "green",
+    titleAlignment: 'center'
   }
 );
 
